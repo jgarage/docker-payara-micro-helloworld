@@ -1,7 +1,7 @@
 # docker-payara-micro-helloworld
 This project contains Dockerfile to build container for a web-application that is deployed on Payara microprofile.
 
--For more info about Payara microstack: https://www.payara.fish/payara_micro
+-For more info about Payara microstack: https://www.payara.fish/payara_micro ,  https://hub.docker.com/r/payara/micro/
 
 -The deployed web-application war-file was build from https://github.com/wildfly/quickstart/tree/master/helloworld-rs
 
