@@ -13,6 +13,6 @@ Instructions:
 
 -Build the docker image using the provided Dockerfile, ie: docker build -t hello-micro:v1 .
 
--Run the docker image
+-Run the docker image on your environment
 
 -Call the rest api, i.e.: http://\<your-ip\>:\<port\>/helloworld-rs/rest/xml
