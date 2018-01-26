@@ -11,6 +11,6 @@ Instructions:
 
 -Build the docker image using the provided Dockerfile, ie: docker build -t hello-micro:v1 .
 
--Run the docker image on your environment
+-Run the docker image on your environment. The Payara listens http traffic on port 8080.
 
--Invoke the rest api, i.e.: http://\<your-ip\>:\<port\>/helloworld-rs/rest/xml
+-Invoke the rest api, i.e.: http://\<host\>:\<port\>/helloworld-rs/rest/xml
