@@ -15,4 +15,4 @@ Instructions:
 
 -Run the docker image
 
--Call the rest api, i.e.: http://your-ip:port/helloworld-rs/rest/xml
+-Call the rest api, i.e.: http://\<your-ip\>:\<port\>/helloworld-rs/rest/xml
